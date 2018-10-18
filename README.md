@@ -58,6 +58,7 @@ rspec
 TBA
 
 * Deployment instructions
+open end point `https://webservice-api.herokuapp.com/todos`
 TBA
 
 
